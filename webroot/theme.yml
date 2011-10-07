@@ -1,0 +1,15 @@
+name: Theme
+description: Theme
+screenshot: screenshot.png
+
+author: Author
+authorEmail: author@domain.tld
+authorUrl: http://domain.tld
+
+menus:
+  - main
+  - footer
+
+regions:
+  - right
+  - left
